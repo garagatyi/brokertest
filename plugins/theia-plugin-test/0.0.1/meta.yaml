@@ -1,0 +1,8 @@
+id: theia-plugin-test
+version: 0.0.1
+type: Che Plugin
+name: Che Samples Hello World Plugin
+title: Che Samples Hello World Plugin
+description: A hello world theia plug-in wrapped into a Che Plug-in
+icon: https://www.eclipse.org/che/images/ico/16x16.png
+url: https://github.com/ws-skeleton/che-dummy-plugin/releases/download/new/hello_world_plugin.theia
