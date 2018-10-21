@@ -1,6 +1,6 @@
 id: theia-remote-plugin
 version: 0.0.1
-type: Che Plugin
+type: Theia plugin
 name: Che Samples Hello World Plugin
 title: Che Samples Hello World Plugin
 description: A hello world theia plug-in wrapped into a Che Plug-in
